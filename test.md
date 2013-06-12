@@ -40,4 +40,8 @@ Use 4 spaces indentation:
     function identity(x) {
       return x;
     }
+    
+    
+- [ ] Write the documentation
+- [ ] Get tickets
 
